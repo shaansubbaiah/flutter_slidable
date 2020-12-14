@@ -1,3 +1,5 @@
+## Forked repository to enable rounded IconSlideActions.
+
 # flutter_slidable
 
 A Flutter implementation of slidable list item with directional slide actions that can be dismissed.
