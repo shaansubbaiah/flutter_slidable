@@ -195,6 +195,8 @@ class IconSlideAction extends ClosableSlideAction {
     }
 
     return Container(
+      decoration:
+          BoxDecoration(borderRadius: BorderRadius.all(Radius.circular(20))),
       child: Center(
         child: Column(
           mainAxisSize: MainAxisSize.min,
